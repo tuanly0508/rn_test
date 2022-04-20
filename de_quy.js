@@ -460,3 +460,4 @@ inserSort(list)
 console.log(list);
 const result = binarySearch(6, list);
 console.log(result);
+
